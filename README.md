@@ -8,10 +8,10 @@ The wrapper replaces the default C code template with a custom one, allowing acc
 
 ## Files
 
-- **`custom_template.c`**  
+- **`jitced_adapted_template.c`**  
   Dynamic C template for optimized code generation (replaces the original `jitcdde` template).
 
-- **`customjitcdde.py`**  
+- **`CustomJiTCDDE.py`**  
   Python wrapper exposing a `customjitcdde` class with enhanced functionality.
 
 ---
