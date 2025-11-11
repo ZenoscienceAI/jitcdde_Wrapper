@@ -1,5 +1,6 @@
 # jitcdde_Wrapper
 A wrapper to be able to run jitcdde, while also outputting the intermediate helper variable values.
+---------------------------------------------------------------------------------------------------
 
 The .c file contains the dynamic template for the c-optimized code that substitutes the original template. The .py file contains the wrapper
 that enables users to call jitcdde with the new template.
