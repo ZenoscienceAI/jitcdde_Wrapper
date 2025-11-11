@@ -41,10 +41,10 @@ for i, t in enumerate(timepoints):
     
     # state: main system state (numpy array)
     # helper_values: values of helper variables (numpy array)
+```
 
 
 If you use this code in your research, teaching, or publications, please cite and reference this repository:
-
 ```bibtex
 @misc{ZenosAI2025,
   author       = {Zenos.AI},
@@ -55,3 +55,4 @@ If you use this code in your research, teaching, or publications, please cite an
   howpublished = {\url{https://github.com/ZenoscienceAI/jitcdde_Wrapper}},
   note         = {Accessed: November 2025}
 }
+```
